@@ -90,8 +90,6 @@ while True:
                 sg.Popup("値をすべて入力して下さい。")
                 continue
 
-###IDの値が同じ場合エラーにする
-
     #PW作成
     if event == "btn_run":
         # ポップアップID
